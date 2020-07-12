@@ -1,0 +1,2 @@
+﻿Guličkový model
+Guličkový model sa skladá z guličiek, ktoré predstavujú jednotlivé atómy a tyčiniek, ktoré naopak predstavujú väzby medzi atómami.NEWLINENEWLINEKaždý atóm má svoju farbu, ktorou je modelovaný.

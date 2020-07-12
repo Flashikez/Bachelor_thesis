@@ -1,0 +1,16 @@
+﻿atom atóm atómy atómov atóma atómu atómami
+Atóm je najmenšia castica hmoty,ktorá sa už dalej nedá delit chemickými prostriedkami. Skladá sa z jadra a obalu.
+uhlík uhlíkov uhlíky uhlíka uhlíku uhlíkmi
+Uhlík (lat. Carboneum) je chemický prvok v Periodickej tabuľke prvkov so značkou C. Uhlík tvorí základný stavebný kamen všetkých organických zlúcenín a tým aj všetkých živých organizmov
+vodík vodíkov vodíky vodíka vodíku
+Vodík (lat. hydrogenium) je chemický prvok v Periodickej tabuľke prvkov so značkou a protónové císlo 1. V prírode sa vodík nenachádza ako samostatný atóm, len vo forme molekuly H₂.
+alifatické
+Jednoduché uhľovodíky obsahujúce priamy alebo rozvetvený reťazec(acyklické).
+cyklické
+Uhľovodíky, ktoré majú v reťazci cyklus.
+nasýtený nasýtené nasýtení nasýtená
+Uhľovodíky, ktoré obsahujú len jednoduché väzby.
+nenasýtený nenasýtené nenasýtení nenasýtená
+Uhľovodíky, ktoré neobsahujú len jednoduché väzby.
+derivát deriváty
+Uhľovodíky, obsahujúce aj iné prvky.

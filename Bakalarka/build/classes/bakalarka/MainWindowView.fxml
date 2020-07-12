@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.control.TreeView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.TextFlow?>
+
+<HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="1024.0" stylesheets="@listStyle.css" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="bakalarka.MainWindowController">
+   <children>
+      <VBox alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="500.0" prefWidth="827.0" spacing="10.0" HBox.hgrow="ALWAYS">
+         <cursor>
+            <Cursor fx:constant="DEFAULT" />
+         </cursor>
+         <children>
+            <ToolBar prefHeight="40.0" prefWidth="200.0">
+              <items>
+                  <Pane maxWidth="1.7976931348623157E308" HBox.hgrow="ALWAYS" />
+              </items>
+            </ToolBar>
+            <TextFlow fx:id="tfName" prefHeight="81.0" prefWidth="827.0" textAlignment="CENTER" />
+            <Separator prefWidth="200.0" />
+            <HBox fx:id="hboxButtons" alignment="CENTER" prefHeight="43.0" prefWidth="827.0" VBox.vgrow="ALWAYS">
+               <children>
+                <Button fx:id="btnFormulas" contentDisplay="CENTER" mnemonicParsing="false" prefHeight="35.0" prefWidth="180.0" text="Zobrazenie vzorcov" />
+                  <Button fx:id="btn3d" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" prefHeight="32.0" prefWidth="180.0" text="Zobrazenie modelov" />
+               </children>
+            </HBox>
+            <ScrollPane fx:id="scrollPane" fitToHeight="true" fitToWidth="true" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" pannable="true" prefHeight="539.0" prefWidth="827.0" style="-fx-background-color: &quot;transparent&quot;;" VBox.vgrow="ALWAYS" />
+         </children>
+      </VBox>
+      <VBox alignment="CENTER" maxHeight="1.7976931348623157E308" minWidth="200.0" prefHeight="500.0" prefWidth="198.0">
+         <children>
+            <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="28.0" prefWidth="197.0" text="Zoznam uhľovodíkov" VBox.vgrow="ALWAYS" />
+            <TreeView fx:id="treeMain" prefHeight="662.0" prefWidth="198.0" VBox.vgrow="ALWAYS" />
+         </children>
+      </VBox>
+   </children>
+</HBox>

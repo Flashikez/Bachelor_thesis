@@ -1,0 +1,2 @@
+﻿Sumárny vzorec
+Sumárny vzorec chemickej látky udáva prvky, z ktorých sa látka skladá a počet ich atómov v molekule.

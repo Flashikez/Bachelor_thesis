@@ -1,0 +1,13 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 21, 2018, 7:01:15 PM
+    Author     : MarekPC
+*/
+.niceseparator{
+     -fx-background-color: #e79423;
+    -fx-background-radius: 2;
+}

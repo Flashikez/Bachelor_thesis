@@ -1,0 +1,2 @@
+﻿Trubičkový model
+Trubičkový model je určený hlavne pre komplexné molekuly. Každému atómu je modelovaný fragment(trubička) s určitou farbou.NEWLINENEWLINE Dvojité väzby modelujeme modrou farbou a trojité väzby žltou farbou.

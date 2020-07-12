@@ -1,0 +1,2 @@
+﻿Kalótový model
+Kalótový model sa najviac blíži skutočnému usporiadaniu atómov v molekule, ak majú dva atómi v modely spoločnú väzbu tak časť jedného atómu je "ponorená" v druhom.NEWLINENEWLINEV cyklickych štruktúrach sme ale túto vlasnosť nemodelovali kvôli lepšej názornosti.

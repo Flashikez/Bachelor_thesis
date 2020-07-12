@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.ContextMenu?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="399.0" prefWidth="601.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ToolBar prefHeight="45.0" prefWidth="601.0" VBox.vgrow="ALWAYS">
+         <contextMenu>
+            <ContextMenu>
+              <items>
+                <MenuItem mnemonicParsing="false" text="Unspecified Action" />
+              </items>
+            </ContextMenu>
+         </contextMenu>
+         <items>
+            <Label text="Modely:" />
+            <ChoiceBox fx:id="choiceBox" prefWidth="150.0" />
+            <ToggleButton fx:id="btnCenter" mnemonicParsing="false" prefHeight="30.0" prefWidth="152.0" selected="true" text="Násobná väzba na začiatku" textAlignment="JUSTIFY">
+               <font>
+                  <Font size="11.0" />
+               </font>
+            </ToggleButton>
+            <Pane maxWidth="1.7976931348623157E308" prefHeight="39.0" prefWidth="10.0" HBox.hgrow="ALWAYS" />
+            <Label fx:id="labelCH" alignment="CENTER" contentDisplay="CENTER" maxWidth="1.7976931348623157E308" text="Label" textAlignment="CENTER">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+            <Pane maxWidth="1.7976931348623157E308" prefHeight="39.0" prefWidth="10.0" HBox.hgrow="ALWAYS" />
+            <ToggleButton fx:id="btnMoznosti" mnemonicParsing="false" onAction="#showMenuPressed" text="Možnosti..." />
+         </items>
+      </ToolBar>
+      <SplitPane fx:id="splitPane" focusTraversable="true" VBox.vgrow="ALWAYS" />
+   </children>
+</VBox>

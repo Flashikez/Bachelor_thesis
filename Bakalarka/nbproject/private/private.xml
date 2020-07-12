@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/listStyle.css</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/view3d/LinearStructureModeler.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/view3d/CyclicStructureModeler.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Formulapack/RationalFormula.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/GroupController.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/HCView.fxml</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Utilities/ToolTips.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Formulapack/StructuralFormula.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/HCsController.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/view3d/ModelWindowMainController.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Formulapack/FormulaView.fxml</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/view3d/ModelWindowMenuController.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/view3d/ModelWindowEntryPoint.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/MainWindowView.fxml</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Formulapack/FormulaInfoView.fxml</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/chemicals/LinearCarbon.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/HCgroup/TreeItemViewable.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/HCViewController.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Formulapack/ResizableCanvas.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/view3d/ResizableSubScene.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/HCsView.fxml</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/HCgroup/HydroCarbonGroup.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/view3d/Xform.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/chemicals/CarbonBase.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Bakalarka.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/MainWindowController.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Utilities/FontSizeBinder.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/chemicals/HydroCarbon.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/view3d/menu.fxml</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Formulapack/EmpiricalFormula.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/view3d/Model3D.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Utilities/dataPack/DataLoader.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Formulapack/FormulaInfoController.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Utilities/SubscriptHelper.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Formulapack/SummaryFormula.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/TreeLink.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/GroupView.fxml</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/InfoView.fxml</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Utilities/Styler.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/chemicals/CyclicCarbon.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Formulapack/Formula.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/HCgroup/HydroCarbonsBase.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/view3d/ContentModel3D.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Utilities/dataPack/formulas/structural.txt</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Formulapack/FormulaWindowEntryPoint.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/view3d/window3d.fxml</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Formulapack/FormulaViewController.java</file>
+            <file>file:/C:/Users/MarekPC/Documents/NetBeansProjects/Bakalarka/src/bakalarka/Utilities/GeometryHelper.java</file>
+        </group>
+    </open-files>
+</project-private>
